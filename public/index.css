@@ -1,0 +1,29 @@
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.welcome {
+    text-align: center;
+    font-size: 72px;
+}
+
+.container {
+    margin: auto;
+    text-align: center;
+    width: 70%;
+  }
+  
+.dice {
+    display: inline-block;
+    margin:auto;
+    padding: 2%;
+    text-align: center;
+    width: 45%;
+}
+
+.roll-dice {
+    font-size: 72px;
+    margin: auto;
+    text-align: center;
+}
